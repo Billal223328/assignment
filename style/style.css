@@ -49,3 +49,33 @@ body{
     border-radius: 8px;
     color: white;
 }
+.about-dev-section{
+    width: 1040px;
+    height: 552px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+}
+.development-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+}
+.question{
+    color: rgb(13, 19, 33);
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.text-description{
+    color: rgb(13, 19, 33);
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 10px;
+}
