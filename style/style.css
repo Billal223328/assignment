@@ -200,5 +200,20 @@ text-align: center;
     width: 200px;
     height: 150px;
 }
+.inspiration-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+}
+.inspire{
+    color: rgb(13, 19, 33);
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
 
 
